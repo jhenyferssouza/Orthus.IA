@@ -2,7 +2,8 @@
 
 > Um tutor inteligente e assistente técnico desenvolvido para orientar estudos, esclarecer dúvidas de engenharia de IA e fundamentar conceitos avançados de **Visão Computacional**, **Agentes Inteligentes**, **LLMs** e **Machine Learning** utilizando **RAG (Retrieval-Augmented Generation)** e orquestração de fluxos com **LangGraph**.
 
-![Uploading image.png…]()
+<img width="1091" height="558" alt="image" src="https://github.com/user-attachments/assets/d23543f9-a526-42f5-beec-7a990db0b302" />
+
 
 
 ## O que o Orthus.AI faz
