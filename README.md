@@ -1,6 +1,9 @@
-# Orthus.AI — Tutor Técnico & Agente RAG
+# Orthus.AI - Tutor Técnico 
 
 > Um tutor inteligente e assistente técnico desenvolvido para orientar estudos, esclarecer dúvidas de engenharia de IA e fundamentar conceitos avançados de **Visão Computacional**, **Agentes Inteligentes**, **LLMs** e **Machine Learning** utilizando **RAG (Retrieval-Augmented Generation)** e orquestração de fluxos com **LangGraph**.
+
+![Uploading image.png…]()
+
 
 ## O que o Orthus.AI faz
 
